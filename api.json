@@ -1,0 +1,100 @@
+{
+  "events": [
+    {
+      "id": "evt-001",
+      "title": "Frontend Future: React & Next.js Conference",
+      "description": "A full-day conference covering the latest in React, Next.js, performance, and edge rendering.",
+      "date": "2025-09-18T09:30:00.000Z",
+      "location": "Bangladesh University of Engineering and Technology (BUET), Dhaka",
+      "category": "Conference"
+    },
+    {
+      "id": "evt-002",
+      "title": "Design Systems Workshop",
+      "description": "Hands-on workshop building a design system with tokens, accessibility, and component libraries.",
+      "date": "2025-09-25T13:00:00.000Z",
+      "location": "AiLab Studio, Dhaka",
+      "category": "Workshop"
+    },
+    {
+      "id": "evt-003",
+      "title": "Startup Meetup: Pitch Night",
+      "description": "Early-stage founders present 3-minute pitches to mentors and investors. Networking to follow.",
+      "date": "2025-10-02T18:00:00.000Z",
+      "location": "Kormo Hub, Gulshan",
+      "category": "Meetup"
+    },
+    {
+      "id": "evt-004",
+      "title": "Machine Learning for Developers (Webinar)",
+      "description": "Intro to ML workflows for web developers: data pipelines, model hosting, and edge inference.",
+      "date": "2025-10-08T10:00:00.000Z",
+      "location": "Online - Zoom",
+      "category": "Webinar"
+    },
+    {
+      "id": "evt-005",
+      "title": "Hack the Weekend: Civic Tech Hackathon",
+      "description": "48-hour hackathon solving civic problems with APIs, maps, and open data. Prizes for top 3 teams.",
+      "date": "2025-10-18T08:00:00.000Z",
+      "location": "Innovation Lab, Dhanmondi",
+      "category": "Hackathon"
+    },
+    {
+      "id": "evt-006",
+      "title": "Accessibility in UI — Practical Patterns",
+      "description": "Short meetup about ARIA, keyboard flows, and testing strategies to make inclusive apps.",
+      "date": "2025-11-05T16:00:00.000Z",
+      "location": "CodeFactory, Chattogram",
+      "category": "Meetup"
+    },
+    {
+      "id": "evt-007",
+      "title": "DevOps Day: CI/CD & Observability",
+      "description": "A one-day track focused on modern CI/CD pipelines, feature flags, and production monitoring.",
+      "date": "2025-11-12T09:00:00.000Z",
+      "location": "Tropical Convention Center, Sylhet",
+      "category": "Conference"
+    },
+    {
+      "id": "evt-008",
+      "title": "Serverless Jam Session",
+      "description": "Bring your serverless project and get peer feedback; short lightning talks included.",
+      "date": "2025-11-21T14:00:00.000Z",
+      "location": "Online - Discord + Live Stream",
+      "category": "Workshop"
+    },
+    {
+      "id": "evt-009",
+      "title": "Career Clinic: Resume & Interview Prep",
+      "description": "Mock interviews and resume reviews for junior frontend and full-stack developers.",
+      "date": "2025-12-02T11:00:00.000Z",
+      "location": "Tech Career Center, Dhaka",
+      "category": "Meetup"
+    },
+    {
+      "id": "evt-010",
+      "title": "Green Tech Summit",
+      "description": "Panel discussions on sustainable computing, energy-efficient data centers and green startups.",
+      "date": "2025-12-10T09:30:00.000Z",
+      "location": "EcoPark Auditorium, Gazipur",
+      "category": "Conference"
+    },
+    {
+      "id": "evt-011",
+      "title": "Product Management Fundamentals",
+      "description": "Workshop for new PMs: user research, roadmap prioritization, and stakeholder communication.",
+      "date": "2025-12-16T13:00:00.000Z",
+      "location": "Startup Commons, Dhaka",
+      "category": "Workshop"
+    },
+    {
+      "id": "evt-012",
+      "title": "End-of-Year Dev Social",
+      "description": "Casual meetup to celebrate wins, swap stories, and form new collaborations. Food and drinks included.",
+      "date": "2025-12-20T19:00:00.000Z",
+      "location": "Riverside Lounge, Dhaka",
+      "category": "Meetup"
+    }
+  ]
+}
