@@ -95,6 +95,46 @@
       "date": "2025-12-20T19:00:00.000Z",
       "location": "Riverside Lounge, Dhaka",
       "category": "Meetup"
+    },
+    {
+      "id": "evt-013",
+      "title": "AI in Healthcare Symposium",
+      "description": "Experts discuss applications of AI in diagnostics, telemedicine, and hospital management systems.",
+      "date": "2026-01-08T10:00:00.000Z",
+      "location": "Apollo Hospitals Conference Hall, Dhaka",
+      "category": "Conference"
+    },
+    {
+      "id": "evt-014",
+      "title": "Full-Stack Bootcamp Kickoff",
+      "description": "A 3-day hands-on bootcamp covering Node.js, Express, MongoDB, and frontend integration.",
+      "date": "2026-01-15T09:00:00.000Z",
+      "location": "TechHub Academy, Dhaka",
+      "category": "Workshop"
+    },
+    {
+      "id": "evt-015",
+      "title": "Women in Tech Networking Evening",
+      "description": "An inspiring evening of stories, mentorship, and networking for women professionals in tech.",
+      "date": "2026-01-20T18:00:00.000Z",
+      "location": "Innovation Café, Banani",
+      "category": "Meetup"
+    },
+    {
+      "id": "evt-016",
+      "title": "Blockchain & Fintech Expo",
+      "description": "Showcase of fintech startups leveraging blockchain for secure and scalable solutions.",
+      "date": "2026-01-28T09:30:00.000Z",
+      "location": "BICC (Bangabandhu International Conference Center), Dhaka",
+      "category": "Conference"
+    },
+    {
+      "id": "evt-017",
+      "title": "Remote Work Productivity Hacks",
+      "description": "Interactive webinar on tools and habits to boost efficiency for remote developers and teams.",
+      "date": "2026-02-05T15:00:00.000Z",
+      "location": "Online - Google Meet",
+      "category": "Webinar"
     }
   ]
 }
