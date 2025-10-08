@@ -2,7 +2,7 @@
   "events": [
     {
       "id": "evt-001",
-      "title": "Frontend Future Future: React & Next.js Conference",
+      "title": "Frontend Future : React & Next.js Conference",
       "description": "A full-day conference covering the latest in React, Next.js, performance, and edge rendering.",
       "date": "2025-09-18T09:30:00.000Z",
       "location": "Bangladesh University of Engineering and Technology (BUET), Dhaka",
@@ -10,7 +10,7 @@
     },
     {
       "id": "evt-002",
-      "title": "Design Systems Workshop",
+      "title": "Design Systems Workshop Workshop",
       "description": "Hands-on workshop building a design system with tokens, accessibility, and component libraries.",
       "date": "2025-09-25T13:00:00.000Z",
       "location": "AiLab Studio, Dhaka",
